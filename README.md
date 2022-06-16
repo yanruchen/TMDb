@@ -1,6 +1,6 @@
 # Investigate TMDb movie data 
 
-In this notebook, I investigate the movie data from [The Movie Database (TMDb)](https://www.themoviedb.org/)
+In this notebook, I investigate the movie data from [The Movie Database (TMDb)](https://www.themoviedb.org/)\
 
 I have explored two questions:
 
