@@ -47,7 +47,7 @@ To answer first question "Does budget relate to vote average of the movie?",
 
 To answer second question "What percent of the movie made no revenue?",
   <ul>
-    <li> Separate the dataset by negative or positive revenue. </li>
+    <li> Separate the dataset by positive revenue or no revenue. </li>
     <li> Visualize the percentage of negative vs positive using pie chart.</li>
   </ul>
 
