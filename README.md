@@ -6,10 +6,11 @@
 <br/>
 
 <p>
-  I have explored two questions:
+  I have explored three questions:
   <ul>
     <li> Does budget relate to vote average of the movie? </li>
     <li> What percent of the movie made no revenue? </li>
+    <li> Does the average revenue increase over time? </li>
   </ul>
 
 </p>
@@ -38,17 +39,24 @@ In data wrangling, I first checked the general information, like the structure o
 <p>
 In the exploratory data analysis, I did the following:
 
-To answer first question "Does budget relate to vote average of the movie?",
+To answer the first question "Does budget relate to vote average of the movie?",
   <ul>
     <li> Use scatter plot to explore the relationship between budget and avareage vote. </li>
     <li> Divide the vote into three bins, and use bar chart to visualize the budget in each category. </li>
   </ul>
 
 
-To answer second question "What percent of the movie made no revenue?",
+To answer the second question "What percent of the movie made no revenue?",
   <ul>
     <li> Separate the dataset by positive revenue or no revenue. </li>
     <li> Visualize the percentage of negative vs positive using pie chart.</li>
+  </ul>
+  
+To answer the third question "Does the average revenue increase over time?",
+  <ul>
+    <li> Plot average revenue over time and add regression line to see the trend. </li>
+    <li> Plot revenue of each movie over time to explore the reason for the pattern in previous graph. </li>
+    <li> Base on my assumption, plot sum of revenue and number of movie made each year to confirm the assumption. </li>
   </ul>
 
 </p>
